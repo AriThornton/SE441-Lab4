@@ -11,7 +11,7 @@ Lab 4
 2)	The Jenkins default port is 8080 and is specifically configured on my system at /Library/LaunchAgents/homebrew.mxcl.jenkins-lts.plist.
 3)	Screenshot after log in.
 
-    ![alt text](image.png)
+    ![alt text](https://github.com/AriThornton/SE441-Lab4/blob/9d96befa4343c8728fbd31cee585dc03cbe43978/screenshots/image.png)
 
 4)	An executor in Jenkins is a thread on a node that executes pipeline stages.
 5)	Jenkins runs as a service user rather than a personal user account for things like security, stability, isolation, and process management.
